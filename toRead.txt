@@ -1,0 +1,5 @@
+Normally a WordPress developer will need to 
+perform the task of filling up an empty theme 
+with dummy content, and doing this manually can 
+be really time consuming, the main reasons this plugin was 
+create was to speed up this process.
